@@ -1,5 +1,5 @@
 # Trained-MPC
-This is the code for the paper [This is the code for the paper [Trained-MPC: A Private Inference by Training-Based Multiparty Computation](https://arxiv.org/abs/2003.12052) (2020).]([https://arxiv.org/abs/2003.12052](https://openreview.net/forum?id=GdCO9uiD8Ss)) (2023).
+This is the code for the paper [Trained-MPC: A Private Inference by Training-Based Multiparty Computation](https://openreview.net/forum?id=GdCO9uiD8Ss) (2023).
 
 <img src="./Image/motivatingexample.jpg" align="right" width="140">
 
