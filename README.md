@@ -1,7 +1,7 @@
 # Trained-MPC
 This is the code for the paper [Trained-MPC: A Private Inference by Training-Based Multiparty Computation](https://openreview.net/forum?id=GdCO9uiD8Ss) (2023).
 
-<img src="./Image/motivatingexample.png" align="right" width="140">
+<img src="./Image/motivatingexample.png" align="right" width="280">
 
 ## Prerequisites
 - Python 3.6+
